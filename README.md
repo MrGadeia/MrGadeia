@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MrGadeia
+- 🤓 I’m interested in Web Development 
+- 📚 I’m currently learning HTML5, CSS3 and JS
